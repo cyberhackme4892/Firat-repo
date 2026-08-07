@@ -1,2 +1,6 @@
-# Firat-repo
-My first repository – learning, building, and growing every day.
+## 📝 My Blog
+
+Read my latest cybersecurity articles on Hashnode:
+
+🔗 https://cyberwithankit.hashnode.dev
+
